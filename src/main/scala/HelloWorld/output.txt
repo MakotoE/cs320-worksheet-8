@@ -1,0 +1,5 @@
+Hello, world!
+Peggy, is
+21 years old
+Sum is 35
+This is function1
